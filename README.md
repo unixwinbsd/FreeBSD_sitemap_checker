@@ -16,4 +16,4 @@ root@ns3:/var/FreeBSD_sitemap_checker # sitemap-check https://www.unixwinbsd.sit
 
 # For more information, Please visit:
 
-https://www.unixwinbsd.site
+https://www.unixwinbsd.site/2024/02/freebsd-sitemap-xml-checker-with-npm.html
