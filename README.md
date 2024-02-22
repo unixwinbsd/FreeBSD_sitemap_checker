@@ -5,19 +5,15 @@ If you give it a sitemap index URL which contains other sitemaps, it will parse 
 
 ## Install
 ```bash
-npm install sitemap-check --global
+root@ns3:/var/FreeBSD_sitemap_checker # npm install sitemap-check --global
 ```
 
 ## Usage
 
 ```bash
-$ sitemap-check http://url-to-your-sitemap
+root@ns3:/var/FreeBSD_sitemap_checker # sitemap-check https://www.unixwinbsd.site/sitemap.xml
 ```
 
-## Options
+# For more information, Please visit:
 
-| Description                                            | command           |
-| ------------------------------------------------------ | ----------------- |
-| Timeout (in seconds) for a single URL                  | `-t`, `--timeout` |
-| Maximum number of URLs to visit in a single sitemap    | `--maxPerSitemap` |
-# FreeBSD_sitemap_checker
+https://www.unixwinbsd.site
