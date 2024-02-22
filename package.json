@@ -1,0 +1,41 @@
+{
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^15.3.0",
+    "@types/yargs": "^16.0.1"
+  },
+  "dependencies": {
+    "@types/xml2js": "^0.4.8",
+    "axios": "^1.6.7",
+    "chalk": "^4.1.1",
+    "xml2js": "^0.6.2",
+    "yargs": "^17.0.1"
+  },
+  "name": "sitemap-check",
+  "version": "0.0.2",
+  "description": "A tool to parse and check sitemap URLs for problems such as broken XML or 404 errors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "bin": {
+    "sitemap-check": "./build/main.js"
+  },
+  "files": [
+    ".build/*"
+  ],
+  "keywords": [
+    "sitemap",
+    "sitemap-check"
+  ],
+  "author": "Ahmet Kun",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keune/sitemap-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keune/sitemap-check/issues"
+  },
+  "homepage": "https://github.com/keune/sitemap-check#readme"
+}
